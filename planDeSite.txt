@@ -1,0 +1,28 @@
+# Home
+
+- Logo, menu(expo, book, contact), about us
+- Superposition de plusieurs carrés concernant les livres d'un cote les exposition de l'autre et au milieu le logo en gros avec un effet quand on passe avec la sourie (lequel ?) avec une fleche vers le bas et texte 'see our book'
+- Mettre un livre en présentation en dessous de la page d'accueil
+- Un petit text en dessous du logo (2ligne max)
+
+
+OUUUUUUU
+
+
+- Sinon faire une page projet et diviser en 2, genre on met un titre book et de l'autre cote exposition et remettre le titre en vertical et sur le cote quand on scroll pour pas perdre la notion de la page
+
+# Exposition
+
+- Mettre des photo de toutes les expo avec au survol un effet flou a l'image et le texte saffiche sur un rectangle et vice versa au survol
+- CTA back to the top
+
+# Book
+
+- Mettre des photo de toutes les expo avec au survol un effet flou a l'image et le texte saffiche sur un rectangle et vice versa au survol
+- CTA back to the top
+
+# Contact
+
+- Text about us with link to the facebook page
+- Avec un genre de select (plusieurs carres avec [rendez-vous,parler,..])
+- Form

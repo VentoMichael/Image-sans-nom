@@ -1,12 +1,33 @@
 # Project client (L'image sans nom)	
 
+
 This project will be written in French
 
 -----------------
 
 ## Lieu - contact
 
-L'image sans nom, place vivegnis QT saint leaonard
+L'image sans nom, place vivegnis QT saint leonard
+
+Le but premier est de mettre en avant le lieu, sa philosophie, permettre la promotion des expo et des livres presents
+
+# Idées
+
+- Dans la pg d'accueil quand on présente le livre il peux y avoir que livre ou que texte ou les deux ATTENTION 
+
+- Meme importance pour expo ou bouquins
+
+- Cible à tout le monde personnes agées, professionel, ...
+
+- Design en split screen 
+
+- Mettre en avant l'image et le text en deuxieme plan
+
+- Réutiliser la police de l'affiche (affiches_002)
+
+- Utiliser le jaune ( contraite)
+
+- Prévoire un generateur automatique de pdf suite a une expo / livre
 
 oli@oliviercornil.be
 
@@ -15,6 +36,8 @@ oli@oliviercornil.be
 -----------------------
 
 ## Critéres
+
+- Public cible (Photographe pro, personnes agés, adolescent passionné de photos)
 
 - L'interface dois être simple à mettre à jour 
 
@@ -52,7 +75,7 @@ oli@oliviercornil.be
 
 -------------------
 
-## Exemples de site bon/mauvais
+## Exemples de site bon / mauvais
 
 - https://www.lesdrapiers.be/ (bibliotheque (tres simple choix entre entre bouquins et expo))
 
@@ -68,4 +91,4 @@ oli@oliviercornil.be
 
 
 
-# image-sans-nom
+
