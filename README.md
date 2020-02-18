@@ -27,7 +27,7 @@ Le but premier est de mettre en avant le lieu, sa philosophie, permettre la prom
 
 - Utiliser le jaune ( contraite)
 
-- Prévoire un generateur automatique de pdf suite a une expo / livre
+- Prévoire un generateur automatique de pdf suite à une expo / livre
 
 oli@oliviercornil.be
 
