@@ -88,7 +88,3 @@ oli@oliviercornil.be
 - ecole du 75
 
 - st luc (PAS BON TROP CHIANT)
-
-
-
-
