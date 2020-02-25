@@ -11,12 +11,7 @@ OUUUUUUU
 
 - Sinon faire une page projet et diviser en 2, genre on met un titre book et de l'autre cote exposition et remettre le titre en vertical et sur le cote quand on scroll pour pas perdre la notion de la page
 
-# Exposition
-
-- Mettre des photo de toutes les expo avec au survol un effet flou a l'image et le texte saffiche sur un rectangle et vice versa au survol
-- CTA back to the top
-
-# Book
+# Exposition - Book
 
 - Mettre des photo de toutes les expo avec au survol un effet flou a l'image et le texte saffiche sur un rectangle et vice versa au survol
 - CTA back to the top
