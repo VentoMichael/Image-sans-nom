@@ -13,22 +13,26 @@ burger.addEventListener("click", (e) => {
 
 
 
+var slideAbout = 1;
+showSlides(slideAbout);
 
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-    showDivs(slideIndex += n);
+// Next/previous controls
+function plusSlides(n) {
+    showSlides(slideAbout += n);
 }
 
-function showDivs(n) {
+function showSlides(n) {
     var i;
-    var x = document.getElementsByClassName("mySlides");
-    if (n > x.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = x.length}
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideAbout = 1}
+    if (n < 1) {slideAbout = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
     }
-    x[slideIndex-1].style.display = "flex";
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideAbout-1].style.display = "block";
+    dots[slideAbout-1].className += " active";
 }
-
